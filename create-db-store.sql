@@ -2,6 +2,7 @@
 DROP DATABASE IF EXISTS `store`;
 CREATE DATABASE `store`;
 USE `store`;
+-- This is a comment
 
 CREATE TABLE `products` (
   `product_id` int(11) NOT NULL AUTO_INCREMENT,
